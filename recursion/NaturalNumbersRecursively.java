@@ -1,3 +1,5 @@
+package recursion;
+
 public class NaturalNumbersRecursively {
 
     private static final int RECURSION_END = 0;
