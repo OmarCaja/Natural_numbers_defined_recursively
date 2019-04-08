@@ -2,10 +2,7 @@
 
 ## Recursive functions
 
-$$
-f^0(x) = x, \ \forall x. \\
-f^{i+1} = f(f^i(x)), \ \forall i \ge 0 \\
-$$
+http://latex.codecogs.com/gif.latex?f%5E0%28x%29%20%3D%20x%2C%20%5C%20%5Cforall%20x.%20%5C%5C%20f%5E%7Bi&plus;1%7D%20%3D%20f%28f%5Ei%28x%29%29%2C%20%5C%20%5Cforall%20i%20%5Cge%200%20%5C%5C
 
 ## Successor function
 
