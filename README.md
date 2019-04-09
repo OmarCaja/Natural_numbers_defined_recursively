@@ -8,6 +8,8 @@
 
 ![](http://latex.codecogs.com/gif.latex?z%28%29%20%3D%200%20%5C%5C%20s%28n%29%20%3D%20n%20&plus;1)
 
+Where n = '''recursionCounter''' and z() = '''recursionFinalNumber'''
+
 ## Natural number defined recursively
 
 ![](http://latex.codecogs.com/gif.latex?n%20%3D%20s%5En%28z%28%29%29%20%3D%20s%5En%280%29%2C%20%5C%20n%20%5Cin%20%5Cmathbb%7BN%7D)
