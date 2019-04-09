@@ -12,7 +12,7 @@ Where Z() = 0 is `recursionFinalNumber`.
 
 ## Natural number defined recursively
 
-![](http://latex.codecogs.com/gif.latex?n%20%3D%20s%5En%28z%28%29%29%20%3D%20s%5En%280%29%2C%20%5C%20n%20%5Cin%20%5Cmathbb%7BN%7D)
+![]https://latex.codecogs.com/gif.latex?n%20%3D%20S%5E%7Bn%7D%28%28Z%28%29%29%29%20%3D%20S%5E%7Bn%7D%280%29%2C%20%5C%20%5Cforall%20n%5Cin%20%5Cmathbb%7BN%7D)
 
 Where n = `recursionCounter`.
 
